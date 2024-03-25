@@ -8,6 +8,7 @@
 - Cafe_Mocha.txt
 - Cappucino.txt
 - Caramel_Machiato.txt
+- [signature_latte.txt](signature_latte.jpg)
   
 ## TEA
 
